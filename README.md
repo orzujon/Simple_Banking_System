@@ -3,6 +3,7 @@
 In this project I have created a console based application where users can create a unique card with pin generated for them. They have a personal account where they can check their balance, deposit money, transfer money to another account, and delete an account. In this project I have used JDBC API for SQLite so the memory of the banking system will not be wiped off once the application is closed. 
 
 Initial page of the applcation looks like this. In this they will be gived 3 options. Based on their choice the application completes the task: 
+
 <img width="291" alt="Screenshot 2022-11-28 at 11 00 35" src="https://user-images.githubusercontent.com/100639316/204314841-8d730879-42de-4605-bdc0-b89423756119.png">
  
  Create an account implements few strategies. The BIN code of the card number is fixed as 400000 and next 9 digit numbers are account number where it is unique and followed by Check Sum (based on Luhn Algorythm); 
