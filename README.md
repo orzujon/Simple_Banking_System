@@ -33,5 +33,6 @@ Do transfer item should allow transferring money to another account. You should 
 
 <img width="435" alt="Screenshot 2022-11-28 at 10 59 45" src="https://user-images.githubusercontent.com/100639316/204316373-1033c3ce-7e91-4384-bda6-0653dd98eef1.png">
 
-Some of the optimization can be performed in the application. Features such as: Account Details, personalizing the account a<img width="307" alt="Screenshot 2022-11-28 at 10 59 31" src="https://user-images.githubusercontent.com/100639316/204316685-0933db08-0e0d-4469-bb4b-e12588b64ba6.png">
-dding the name and details of the user, giving them an option of changing the pin code. 
+Some of the optimization can be performed in the application. Features such as: Account Details, personalizing the account adding the name and details of the user, giving them an option of changing the pin code. 
+
+<img width="307" alt="Screenshot 2022-11-28 at 10 59 31" src="https://user-images.githubusercontent.com/100639316/204316685-0933db08-0e0d-4469-bb4b-e12588b64ba6.png">
