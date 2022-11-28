@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleBankSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-27T19:50:03" hostname="Orzujons-MacBook-Air.local" time="1.539">
+  <properties/>
+  <testcase name="start" classname="SimpleBankSystemTest" time="1.539"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[1;31m
+Start test 2?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[1;31m
+Start test 3?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[1;31m
+Start test 4?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[1;31m
+Start test 5?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000009906813806
+Your card PIN:
+7107
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000008106104115
+Your card PIN:
+3013
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000009269741073
+Your card PIN:
+3654
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000002235090584
+Your card PIN:
+2132
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000005163299739
+Your card PIN:
+5062
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[0;34m4000009906813806
+?[0m?[0;34m4000008106104115
+?[0m?[0;34m4000009269741073
+?[0m?[0;34m4000002235090584
+?[0m?[0;34m4000005163299739
+?[1;31m
+Start test 6?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000001980703060
+Your card PIN:
+1796
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000001980703060
+Enter your PIN: 
+> 1796
+
+You have successfully logged in! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+
+Bye! 
+
+?[1;31m
+Start test 7?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000007889529928
+Your card PIN:
+5688
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000007889529928
+Enter your PIN: 
+> 3775
+
+Wrong card number or PIN! 
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[1;31m
+Start test 8?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000004306668769
+Your card PIN:
+2849
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 400000880462212
+Enter your PIN: 
+> 2849
+
+Wrong card number or PIN! 
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+?[1;31m
+Start test 9?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000009642934841
+Your card PIN:
+1897
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000009642934841
+Enter your PIN: 
+> 1897
+
+You have successfully logged in! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 1
+
+Balance:0
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+
+Bye! 
+
+?[1;31m
+Start test 10?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000006545720517
+Your card PIN:
+5498
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000006545720517
+Enter your PIN: 
+> 5498
+
+You have successfully logged in! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 10000
+Income was added!
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+
+Bye! 
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000006545720517
+Enter your PIN: 
+> 5498
+
+You have successfully logged in! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 15000
+Income was added!
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+
+Bye! 
+
+?[1;31m
+Start test 11?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000005544490395
+Your card PIN:
+4193
+
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000002308798345
+Your card PIN:
+4821
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000002308798345
+Enter your PIN: 
+> 4821
+
+You have successfully logged in! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number:
+> 2000007269641764
+Probably you made a mistake in the card number. Please try again! 
+
+> 3
+Probably you made a mistake in the card number. Please try again! 
+
+> 2000007269641768
+Such a card does not exist. 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number:
+> 4000005544490395
+Enter how much money you want to transfer:
+> 100000
+Not enough money! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 2
+Enter income: 
+> 20000
+Income was added!
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 3
+Transfer
+Enter card number:
+> 4000005544490395
+Enter how much money you want to transfer:
+> 10000
+Success!
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 0
+
+Bye! 
+
+?[1;31m
+Start test 12?[0m
+1. Create an account
+2. Log into account
+0. Exit
+> 1
+
+Your card has been created
+Your card number:
+4000007462696888
+Your card PIN:
+5071
+
+1. Create an account
+2. Log into account
+0. Exit
+> 2
+
+Enter your card number: 
+> 4000007462696888
+Enter your PIN: 
+> 5071
+
+You have successfully logged in! 
+
+1. Balance 
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+0. Exit
+> 4
+The account has been closed! 
+
+1. Create an account
+2. Log into account
+0. Exit
+> 0
+
+Bye! 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

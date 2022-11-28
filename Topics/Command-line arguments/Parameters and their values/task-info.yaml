@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Problem {
+        public static void main(String[] args) {
+
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3336#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #3 of 3. Wrong answer
+  time: "Mon, 21 Nov 2022 12:11:35 UTC"
+record: -1

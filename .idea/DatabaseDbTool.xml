@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseDbTool">
+    <option name="sources">
+      <map>
+        <entry key="localhost">
+          <value>
+            <DataConfigSourceDto>
+              <option name="comment" value="" />
+              <option name="dataBaseType" value="Sqlite" />
+              <option name="database" value="main" />
+              <option name="databaseName" value="localhost" />
+              <option name="databaseSslConfig">
+                <DatabaseSslConfig>
+                  <option name="caFile" value="" />
+                  <option name="clientCertificateFile" value="" />
+                  <option name="clientKeyFile" value="" />
+                  <option name="clientKeyPassword" value="" />
+                  <option name="sslMode" value="REQUIRE" />
+                </DatabaseSslConfig>
+              </option>
+              <option name="databaseVersion">
+                <NameVersion>
+                  <option name="majorVersion" value="3" />
+                  <option name="minorVersion" value="36" />
+                  <option name="name" value="SQLite" />
+                  <option name="version" value="3.36.0" />
+                </NameVersion>
+              </option>
+              <option name="dbFile" value="$USER_HOME$/java/Simple Banking System/Banking" />
+              <option name="driverCombos" value="thin" />
+              <option name="driverType" value="SQLite" />
+              <option name="host" value="localhost" />
+              <option name="jarUrl" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.36.0.3/sqlite-jdbc-3.36.0.3.jar" />
+              <option name="myUniqueId" value="cc737d9b-de34-42f8-ac40-136b07130047" />
+              <option name="port" value="3306" />
+              <option name="properties">
+                <map />
+              </option>
+              <option name="schemaSourceDto">
+                <SchemaSourceDto>
+                  <option name="name" value="main" />
+                  <option name="tableSources">
+                    <list>
+                      <TableSourceDto>
+                        <option name="columns">
+                          <list>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="id" />
+                              <option name="pk" value="true" />
+                              <option name="tableName" value="card" />
+                              <option name="typeName" value="INTEGER" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="number" />
+                              <option name="tableName" value="card" />
+                              <option name="typeName" value="VARCHAR" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="pin" />
+                              <option name="tableName" value="card" />
+                              <option name="typeName" value="VARCHAR" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="balance" />
+                              <option name="tableName" value="card" />
+                              <option name="typeName" value="INTEGER" />
+                            </ColumnSourceDto>
+                          </list>
+                        </option>
+                        <option name="databaseType" value="Sqlite" />
+                        <option name="schema" value="main" />
+                        <option name="tableName" value="card" />
+                        <option name="tableType" value="table" />
+                      </TableSourceDto>
+                      <TableSourceDto>
+                        <option name="columns">
+                          <list>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="type" />
+                              <option name="tableName" value="sqlite_master" />
+                              <option name="typeName" value="text" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="name" />
+                              <option name="tableName" value="sqlite_master" />
+                              <option name="typeName" value="text" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="tbl_name" />
+                              <option name="tableName" value="sqlite_master" />
+                              <option name="typeName" value="text" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="rootpage" />
+                              <option name="tableName" value="sqlite_master" />
+                              <option name="typeName" value="int" />
+                            </ColumnSourceDto>
+                            <ColumnSourceDto>
+                              <option name="columnName" value="sql" />
+                              <option name="tableName" value="sqlite_master" />
+                              <option name="typeName" value="text" />
+                            </ColumnSourceDto>
+                          </list>
+                        </option>
+                        <option name="databaseType" value="Sqlite" />
+                        <option name="schema" value="main" />
+                        <option name="tableName" value="sqlite_master" />
+                        <option name="tableType" value="table" />
+                      </TableSourceDto>
+                    </list>
+                  </option>
+                </SchemaSourceDto>
+              </option>
+              <option name="sid" value="" />
+              <option name="url" value="jdbc:sqlite:/Users/user/java/Simple Banking System/Banking" />
+              <option name="userName" value="" />
+              <option name="driverVersion">
+                <NameVersion>
+                  <option name="majorVersion" value="3" />
+                  <option name="minorVersion" value="36" />
+                  <option name="name" value="SQLite JDBC" />
+                  <option name="version" value="3.36.0.3" />
+                </NameVersion>
+              </option>
+            </DataConfigSourceDto>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
